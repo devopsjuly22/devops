@@ -12,7 +12,6 @@
 <p>Manogar</p>
 <p>Manjunath</p>
 <p>Pruthvi</p>
-<p>Keerthi</p>
 
 </body>
 </html>
