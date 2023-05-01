@@ -7,7 +7,8 @@
 
 <h1>Welcome to devops class</h1>
 <p>Sushma</p>
-<p>Sudarshan</p>
+<p>Sudharshan</p>
+<p>Keerthi</p> 
 <p>Manogar</p>
 <p>Manjunath</p>
 <p>Pruthvi</p>
